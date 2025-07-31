@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- 背景 -->
+  <rect width="512" height="512" fill="#2c3e50"/>
+  
+  <!-- 加密货币符号 -->
+  <g fill="#3498db">
+    <!-- 比特币符号 -->
+    <path d="M290,196 v-20 h-30 v-30 h-20 v30 h-20 v-30 h-20 v30 h-20 v20 h20 v100 h-20 v20 h20 v30 h20 v-30 h20 v30 h20 v-30 h30 v-20 h-30 v-100 h30 z M240,196 v100 h-20 v-100 h20 z"/>
+  </g>
+  
+  <!-- 放大镜图标（代表分析） -->
+  <circle cx="180" cy="180" r="70" fill="none" stroke="#f1c40f" stroke-width="12" opacity="0.8"/>
+  <line x1="230" y1="230" x2="280" y2="280" stroke="#f1c40f" stroke-width="15" opacity="0.8"/>
+  
+  <!-- 文字：CryptoSift -->
+  <text x="256" y="350" font-family="Arial" font-size="50" font-weight="bold" text-anchor="middle" fill="#ecf0f1">CryptoSift</text>
+  <text x="256" y="400" font-family="Arial" font-size="24" text-anchor="middle" fill="#ecf0f1">加密货币预测分析</text>
+  
+  <!-- 加载动画 -->
+  <circle cx="256" cy="450" r="8" fill="#ecf0f1">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="276" cy="450" r="8" fill="#ecf0f1">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="296" cy="450" r="8" fill="#ecf0f1">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>

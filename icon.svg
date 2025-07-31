@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- 背景圆形 -->
+  <circle cx="256" cy="256" r="256" fill="#2c3e50"/>
+  
+  <!-- 加密货币符号 -->
+  <g fill="#3498db">
+    <!-- 比特币符号 -->
+    <path d="M290,196 v-20 h-30 v-30 h-20 v30 h-20 v-30 h-20 v30 h-20 v20 h20 v100 h-20 v20 h20 v30 h20 v-30 h20 v30 h20 v-30 h30 v-20 h-30 v-100 h30 z M240,196 v100 h-20 v-100 h20 z"/>
+    
+    <!-- 以太坊符号 -->
+    <path d="M350,150 l-50,80 l50,30 l-50,90 l-50,-90 l50,-30 z" opacity="0.7"/>
+    
+    <!-- 波浪线（代表价格图表） -->
+    <path d="M100,300 Q130,250 160,290 Q190,330 220,270 Q250,210 280,250 Q310,290 340,230 Q370,170 400,210" stroke="#2ecc71" stroke-width="8" fill="none"/>
+  </g>
+  
+  <!-- 放大镜图标（代表分析） -->
+  <circle cx="180" cy="180" r="70" fill="none" stroke="#f1c40f" stroke-width="12" opacity="0.8"/>
+  <line x1="230" y1="230" x2="280" y2="280" stroke="#f1c40f" stroke-width="15" opacity="0.8"/>
+  
+  <!-- 文字：CryptoSift -->
+  <text x="256" y="380" font-family="Arial" font-size="40" font-weight="bold" text-anchor="middle" fill="#ecf0f1">CryptoSift</text>
+</svg>
