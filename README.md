@@ -76,4 +76,4 @@ python CryptoSift.py
 
 ## 技术支持
 
-如有问题请提交issue或联系：support@yourdomain.com
+如有问题请提交issue或联系：slmgam@163.com
