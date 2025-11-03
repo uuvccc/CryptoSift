@@ -74,6 +74,3 @@ python CryptoSift.py
 - 加密货币投资有风险
 - 预测结果不构成投资建议
 
-## 技术支持
-
-如有问题请提交issue或联系：slmgam@163.com
